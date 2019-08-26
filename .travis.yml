@@ -5,9 +5,9 @@ cache: npm
 script:
   - node -v
   - npm -v
-  - echo "www.ludics.cn" >> public/CNAME
   - npm install
   - npm run build
+  - echo "www.ludics.cn" >> public/CNAME
   - echo 'Build done!'
 
 deploy:
