@@ -1,4 +1,4 @@
-# SF-Zhou's Blog [![Build Status](https://travis-ci.com/SF-Zhou/sf-zhou.github.io.svg?branch=blog)](https://travis-ci.com/SF-Zhou/sf-zhou.github.io)
+# Lu Di's Blog [![Build Status](https://travis-ci.org/ludics/ludics.github.io.svg?branch=blog)](https://travis-ci.com/ludics/ludics.github.io)
 
 > A static blog based on GitHub Pages, Travis CI & Node.js.
 
