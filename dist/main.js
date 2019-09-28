@@ -7,7 +7,7 @@ if (pathname.endsWith('html') && pathname.indexOf("/hidden/") === -1) {
     repo: 'ludics.github.io',
     owner: 'ludics',
     admin: ['ludics'],
-    id: pathname,
+    id: md5(pathname),
   });
 
   gitalk.render('gitalk-container');
