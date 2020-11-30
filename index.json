@@ -1,0 +1,199 @@
+[
+  {
+    "title": "Paper Reading on Pose Detection",
+    "date": "2020.09.25",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_PoseDetection",
+    "url_path": "/paper/PR_on_PoseDetection.html"
+  },
+  {
+    "title": "Recent Readings",
+    "date": "2020.07.27",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "RecentReadings",
+    "url_path": "/paper/RecentReadings.html"
+  },
+  {
+    "title": "Paper Reading on Visual Place Recognition",
+    "date": "2020.07.08",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_PlaceRecog",
+    "url_path": "/paper/PR_on_PlaceRecog.html"
+  },
+  {
+    "title": "Paper Reading on Adversarial Attack",
+    "date": "2020.07.08",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_AdverAttack",
+    "url_path": "/paper/PR_on_AdverAttack.html"
+  },
+  {
+    "title": "Paper Reading on Person Re-Idnetification",
+    "date": "2020.06.21",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_ReID",
+    "url_path": "/paper/PR_on_ReID.html"
+  },
+  {
+    "title": "Paper Reading on Image Retrieval",
+    "date": "2020.06.21",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_Retrieval",
+    "url_path": "/paper/PR_on_Retrieval.html"
+  },
+  {
+    "title": "Paper Reading on Compressed Sensing with LDPC codes",
+    "date": "2020.06.06",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_CS_LDPC",
+    "url_path": "/paper/PR_on_CS_LDPC.html"
+  },
+  {
+    "title": "Paper Reading on Neural Machine Translation",
+    "date": "2019.12.16",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_NMT",
+    "url_path": "/paper/PR_on_NMT.html"
+  },
+  {
+    "title": "Paper Reading on Generative Models",
+    "date": "2019.12.01",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "paper_reading_on_generative_models",
+    "url_path": "/paper/paper_reading_on_generative_models.html"
+  },
+  {
+    "title": "Paper Reading on Incremental Learning",
+    "date": "2019.11.26",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "PR_on_incremental_learning",
+    "url_path": "/paper/PR_on_incremental_learning.html"
+  },
+  {
+    "title": "Paper Reading on Deep Compressed Sensing",
+    "date": "2019.09.22",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "paper_reading_on_deep_compressive_sensing",
+    "url_path": "/paper/paper_reading_on_deep_compressive_sensing.html"
+  },
+  {
+    "title": "电子信息学科的历史演变",
+    "date": "2019.09.20",
+    "author": "ludics",
+    "tags": [
+      "Reading",
+      "Feeling"
+    ],
+    "filename": "the_history_of_electronic_info",
+    "url_path": "/life/the_history_of_electronic_info.html"
+  },
+  {
+    "title": "Paper Reading on Model Compression: Compression and Acceleration (2)",
+    "date": "2019.09.05",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "paper_reading_on_model_compression_2",
+    "url_path": "/paper/paper_reading_on_model_compression_2.html"
+  },
+  {
+    "title": "Min Jump",
+    "date": "2019.04.13",
+    "author": "ludics",
+    "tags": [
+      "Algorithm",
+      "Code"
+    ],
+    "filename": "min_jump",
+    "url_path": "/algorithm/min_jump.html"
+  },
+  {
+    "title": "Paper Reading on Face Recognition",
+    "date": "2019.03.28",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "paper_reading_on_face_recognition",
+    "url_path": "/paper/paper_reading_on_face_recognition.html"
+  },
+  {
+    "title": "Paper Reading on Model Compression: Compression and Acceleration",
+    "date": "2019.03.23",
+    "author": "ludics",
+    "tags": [
+      "Paper",
+      "Academic"
+    ],
+    "filename": "paper_reading_on_model_compression",
+    "url_path": "/paper/paper_reading_on_model_compression.html"
+  },
+  {
+    "title": "物理学家的浪漫",
+    "date": "2017.03.01",
+    "author": "ludics",
+    "tags": [
+      "Reading",
+      "Feeling"
+    ],
+    "filename": "the_romance_of_physicists",
+    "url_path": "/life/the_romance_of_physicists.html"
+  },
+  {
+    "title": "About Ludics",
+    "date": "1996.07.31",
+    "author": "ludics",
+    "tags": [
+      "Author"
+    ],
+    "filename": "ludics",
+    "url_path": "/authors/ludics.html"
+  }
+]
